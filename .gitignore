@@ -1,0 +1,27 @@
+# Compiled output
+bin/
+*.class
+
+# Executables and binaries
+*.exe
+*.dll
+*.so
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+.settings/
+out/
+
+# Local configuration / secrets
+.env
+config.properties
+
+# Backups
+*.zip
+
+# Logs
+*.log
